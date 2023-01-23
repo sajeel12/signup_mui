@@ -16,6 +16,7 @@ class CButton extends Component {
                     {this.props.text}
                 </Button>
             </>
+            
 
         );
 
